@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.masai.a96july_permission_shared_preference_we1",
+  "variantName": "debug",
+  "elements": []
+}

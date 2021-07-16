@@ -1,0 +1,5 @@
+com/masai/a96july_permission_shared_preference_we1/BuildConfig.java
+ com.masai.a96july_permission_shared_preference_we1.BuildConfig
+com/masai/a96july_permission_shared_preference_we1/MainActivity.java
+ com.masai.a96july_permission_shared_preference_we1.MainActivity
+ com.masai.a96july_permission_shared_preference_we1.MainActivity$1
